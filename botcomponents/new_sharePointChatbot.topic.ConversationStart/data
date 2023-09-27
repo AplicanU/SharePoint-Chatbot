@@ -1,0 +1,16 @@
+kind: AdaptiveDialog
+beginDialog:
+  kind: OnConversationStart
+  id: main
+  actions:
+    - kind: SendActivity
+      id: sendMessage_M0LuhV
+      activity:
+        text:
+          - Hello, I'm {System.Bot.Name}. I can help you with providing answers based on policy documents.
+        speak:
+          - Thanks for calling, how can I help?
+
+    - kind: SendActivity
+      id: sendActivity_8zRGu6
+      activity: What can I help you with?
