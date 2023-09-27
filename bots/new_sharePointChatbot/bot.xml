@@ -1,0 +1,31 @@
+<bot schemaname="new_sharePointChatbot">
+  <authenticationconfiguration>{"connectionName":"113b9b94-3d22-43e0-9470-7f219652db9f"}</authenticationconfiguration>
+  <authenticationmode>3</authenticationmode>
+  <authenticationtrigger>1</authenticationtrigger>
+  <iscustomizable>0</iscustomizable>
+  <language>1033</language>
+  <name>SharePoint Chatbot</name>
+  <runtimeprovider>0</runtimeprovider>
+  <synchronizationstatus>{
+  "contentVersion": 2,
+  "lastFinishedPublishOperation": {
+    "userId": "bfa61ab0-d191-493a-8f54-04424809402d",
+    "operationStart": "2023-09-27T11:37:34.0489295Z",
+    "operationEnd": "2023-09-27T11:37:36.3168665Z",
+    "status": "Succeeded"
+  },
+  "lastPublishedUserId": "bfa61ab0-d191-493a-8f54-04424809402d",
+  "lastPublishedOnUtc": "2023-09-27T11:37:35Z",
+  "currentSynchronizationState": {
+    "botRegistration": {
+      "applicationId": "3d35a0e0-1707-47bc-b2b2-4b004af0f8eb",
+      "isAppAvailableInTenant": true
+    },
+    "provisioningStatus": "Provisioned",
+    "state": "Synchronized"
+  },
+  "lastSynchronizedOnUtc": "2023-09-27T11:37:55.4595006Z"
+}</synchronizationstatus>
+  <template>default-2.0.1</template>
+  <timezoneruleversionnumber>4</timezoneruleversionnumber>
+</bot>
